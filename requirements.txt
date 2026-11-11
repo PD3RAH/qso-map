@@ -1,0 +1,1 @@
+# QSO Map needs no extra packages: Python 3.10+ with tkinter is enough.

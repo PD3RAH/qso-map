@@ -1,0 +1,42 @@
+QSO Map - DISCLAIMER / VRIJWARING
+=================================
+
+NEDERLANDS
+----------
+QSO Map is gratis software en wordt geleverd "zoals het is" (as is), zonder enige
+garantie. Er is geen garantie dat het programma foutloos werkt of geschikt is voor een
+bepaald doel.
+
+- Gebruik is op eigen risico. De maker is niet aansprakelijk voor schade of verlies door
+  het gebruik van dit programma, of doordat het niet gebruikt kan worden, zoals verlies
+  van gegevens.
+- QSO Map leest je logboek alleen; het originele ADIF-bestand wordt nooit gewijzigd.
+  Exporteren maakt altijd een nieuw bestand.
+- Afstanden en posities zijn een benadering. Zonder locator in de log wordt de positie
+  geschat uit het prefix van de roepnaam (het midden van het land of call-gebied).
+- Aan dit programma, de handleiding en de vertalingen kunnen geen rechten worden ontleend.
+- Kaartgegevens: Natural Earth (publiek domein). Landsgrenzen zijn geen politieke uitspraak.
+
+Windows kan bij het installeren melden "Uw pc wordt beschermd". Dat komt doordat dit
+gratis programma niet digitaal ondertekend is. Klik op "Meer informatie" en daarna op
+"Toch uitvoeren". Download het programma alleen van github.com/PD3RAH/qso-map.
+
+ENGLISH
+-------
+QSO Map is free software and is provided "as is", without any warranty. There is no
+guarantee that the program works without errors or is fit for any particular purpose.
+
+- Use is at your own risk. The author is not liable for any damage or loss caused by using
+  this program, or by not being able to use it, such as loss of data.
+- QSO Map only reads your logbook; the original ADIF file is never changed. Export always
+  writes a new file.
+- Distances and positions are approximate. Without a grid square in the log, the position
+  is estimated from the callsign prefix (centre of the country or call area).
+- No rights can be derived from this program, the manual or the translations.
+- Map data: Natural Earth (public domain). Borders are not a political statement.
+
+Windows may show "Windows protected your PC" during installation, because this free
+program is not code-signed. Click "More info" and then "Run anyway". Only download the
+program from github.com/PD3RAH/qso-map.
+
+Copyright (c) 2026 Richard A. Hendriksen (PD3RAH) - MIT License - www.pd3rah.nl
